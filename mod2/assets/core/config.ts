@@ -3,5 +3,5 @@ interface Config {
 }
 
 export const defaultConfig: Config = {
-	greeting: 'Hello Hugo!'
+	greeting: 'greeting configured in mod2'
 };
