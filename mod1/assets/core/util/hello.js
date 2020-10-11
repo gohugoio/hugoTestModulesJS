@@ -1,5 +1,5 @@
-import config from '../config';
+import { defaultConfig } from '../config';
 
 export function hello() {
-	return config.greeting;
+	return defaultConfig.greeting;
 }

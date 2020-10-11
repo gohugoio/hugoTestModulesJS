@@ -2,8 +2,6 @@ interface Config {
 	greeting: string;
 }
 
-const defaultConfig: Config = {
-	greeting: 'Hello from mod1'
+export const defaultConfig: Config = {
+	greeting: 'Hello Hugo!'
 };
-
-export default defaultConfig;
