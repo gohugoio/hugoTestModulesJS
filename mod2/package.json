@@ -1,0 +1,21 @@
+{
+ "author": "",
+ "comments": {
+  "dependencies": {
+   "date-fn": "project"
+  },
+  "devDependencies": {}
+ },
+ "dependencies": {
+  "date-fns": "^2.16.1"
+ },
+ "description": "",
+ "devDependencies": {},
+ "license": "ISC",
+ "main": "index.js",
+ "name": "mod2",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "version": "1.0.0"
+}
